@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Editorial-style typography: serif for headings, sans for body */
+body {
+  font-family: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+.font-serif {
+  font-family: "Georgia", "Times New Roman", serif;
+}
