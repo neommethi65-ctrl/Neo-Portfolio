@@ -1,4 +1,5 @@
 # Neo Mmethi — Personal Portfolio
+🔗 **Live site:** https://app.netlify.com/projects/neo-portfolioo/overview
 
 This is my personal portfolio website, built with React and Tailwind CSS as part of my React Fundamentals assignment.
 
